@@ -34,7 +34,7 @@
 
 
 .password{
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
 }
 
 .userName{
@@ -57,3 +57,18 @@
     cursor: pointer;
     
 }
+
+.finalLink{
+    color: black;
+    font-size: 1.2rem;
+    position: relative;
+
+    bottom: 3rem;
+    left: 7rem;
+}
+
+.finalLink a{
+    color: red;
+
+}
+

@@ -1,0 +1,59 @@
+.LoginPage{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.loginBox{
+    width: 25rem;
+    height: 25rem;
+
+    background-color: #F1E4C3;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.loginHeading{
+    color: #130B05;
+    font-size: 4rem;
+
+    margin-bottom: 1rem;
+}
+
+.whiteBox{
+    background-color: white;
+    color: black;
+    padding: 1rem;
+    width: 70%;
+    
+}
+
+
+.password{
+    margin-bottom: 2rem;
+}
+
+.userName{
+    margin-bottom: 1rem;
+}
+
+.blackBox{
+    color: white;
+    background-color: #130B05;
+
+    padding: 0.7rem 1rem 0.4rem 1rem;
+    font-size: 1.3rem;
+
+    position: relative;
+    bottom: 1rem;
+    right: 6.8rem;
+
+    font-weight: 700;
+
+    cursor: pointer;
+    
+}

@@ -34,7 +34,7 @@
 
 
 .password{
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
 }
 
 .userName{
@@ -57,3 +57,59 @@
     cursor: pointer;
     
 }
+
+.finalLink{
+    color: black;
+    font-size: 1.2rem;
+    position: relative;
+
+    bottom: 3rem;
+    left: 7rem;
+}
+
+.finalLink a{
+    color: red;
+
+}
+
+.image{
+    width: 12rem;
+    position: relative;
+    bottom: 2rem;
+    /* height: 2rem; */
+}
+
+.menu{
+    font-size: 4rem;
+    /* position: absolute; */
+    margin-right: 66.5rem;
+    position: relative;
+    bottom: 2.5rem;
+
+    background-color: #F1E4C3;
+    color: #130B05;
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+
+
+.grid-container{
+    width: 80%;
+    display: grid;
+    grid-template-columns: auto auto;
+
+    column-gap: 6rem;
+    row-gap: 1rem;
+}
+
+.grid-item{
+    font-size: 2.4rem;
+    font-family: 'League Gothic', sans-serif;
+
+    display: flex;
+    justify-content: space-between;
+
+}
+
